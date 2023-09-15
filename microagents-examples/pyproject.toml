@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "microagents-examples"
+version = "0.1.0"
+description = ""
+authors = ["Kenil Kavar <125490448+Kenil-kavar@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
